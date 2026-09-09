@@ -1,0 +1,4 @@
+interface:
+  display_name: "Everything CLI Search"
+  short_description: "Search local files quickly with es.exe"
+  default_prompt: "Use es.exe to quickly locate files and report sizes and modification dates."
